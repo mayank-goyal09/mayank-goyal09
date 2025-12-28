@@ -440,6 +440,8 @@ const currentFocus = {
 
 </td>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212275318-f6ef3fa2-4145-4f9b-8688-2f8d1e59f54f.png" width="80" />
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384fa3-11d3-4f39-9f4d-900cfde3fd06.png" width="80" />
 

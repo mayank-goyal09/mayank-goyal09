@@ -491,8 +491,7 @@ Quick to adapt to new technologies and frameworks
 
 ### 🐍 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗚𝗿𝗮𝗽𝗵
 
-![Snake animation](https://raw.githubusercontent.com/mayank-goyal09/mayank-goyal09/output/github-contribution-grid-snake-dark.svg)
-
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayank-goyal09&theme=tokyonight&range=all_time)
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

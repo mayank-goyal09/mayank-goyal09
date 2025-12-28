@@ -59,6 +59,49 @@ me.say_hi()
 
 <div align="center">
 
+<br>
+
+[![Data Analyst](https://img.shields.io/badge/Data%20Analyst-007ACC?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/mayank-goyal09)
+
+![Analyst Working](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+
+<br>
+
+### 💼 Data Analyst Intern
+**🏢 SpaceECE, Pune**  
+**📅 Jul 2025 - Oct 2025**
+
+![Internship Badge](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+**Successfully completed a Business Analysis internship focusing on data-driven dashboard creation. Recognized by leadership for diligence and inquisitive analytical approach.** ✨
+
+**🚀 Key Dashboards Developed:**
+<table align="center">
+<tr>
+<th>📊 Dashboard</th>
+<th>🔍 Focus Area</th>
+</tr>
+<tr>
+<td><b>Umang & Udaan Dashboard</b></td>
+<td>Comprehensive program analytics & performance tracking</td>
+</tr>
+<tr>
+<td><b>Intern Exit Analysis</b></td>
+<td>Retention patterns, exit reasons & improvement insights</td>
+</tr>
+<tr>
+<td><b>Education & Test Analysis</b></td>
+<td>Student performance metrics & learning outcomes</td>
+</tr>
+<tr>
+<td><b>Process Optimization</b></td>
+<td>Workflow efficiency & bottleneck identification</td>
+</tr>
+</table>
+
+**💡 Impact:** Transformed raw data into actionable business intelligence, driving process improvements and strategic decisions. [memory:2][page:1]
+
+
 ### 🌟 𝗤𝘂𝗶𝗰𝗸 𝗙𝗮𝗰𝘁𝘀
 
 </div>

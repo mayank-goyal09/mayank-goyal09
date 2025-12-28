@@ -491,9 +491,13 @@ Quick to adapt to new technologies and frameworks
 
 ### 🐍 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗚𝗿𝗮𝗽𝗵
 
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayank-goyal09&theme=tokyonight&range=all_time)
+<div align="center">
+  <h3>📊 Contribution Stats</h3>
+  <p>Contributing consistently to projects and learning every day!</p>
+  <br/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-409+-0969da?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active%20Since-2024-blue?style=for-the-badge" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>

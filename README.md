@@ -1,191 +1,279 @@
 <div align="center">
- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,2c003e,6600cc,ff00ff&height=300&section=header&text=MAYANK%20GOYAL&fontSize=70&fontAlignY=35&desc=AI%20ARCHITECT%20%7C%20DEEP%20LEARNING%20%7C%20INNOVATOR&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=2"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=320&section=header&text=&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descSize=20" width="100%" alt="Header Background"/>
+  
+  <div style="margin-top: -280px; position: relative; z-index: 2;">
+    
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=MAYANK+GOYAL;AI+%2F+ML+ENGINEER;DATA+SCIENTIST" alt="Typing SVG" />
+    </a>
 
-<p>
-<a href="https://linkedin.com/in/mayank-goyal09"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/mayank-goyal09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:itsmayak09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://mayank-goyal-showcase.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=A6ACCD&center=true&vCenter=true&width=800&height=50&lines=🚀+Transforming+Raw+Data+into+Intelligence;🧠+Deep+Learning+Architect+%26+Innovator;🤖+Building+the+Future+of+AI;⚡+40%2B+Production-Ready+Projects" alt="Subtitles" />
+    </a>
+    
+    <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=SYSTEM+ONLINE...;INITIALIZING+NEURAL+NETWORKS...;LOADING+40%2B+ML+PROJECTS...;MAYANK+GOYAL+IS+READY+TO+CODE." alt="Typing SVG" />
-</a>
+    <p align="center">
+      <a href="https://github.com/mayank-goyal09">
+        <img src="https://img.shields.io/github/followers/mayank-goyal09?style=social&label=Followers&color=blue" alt="GitHub Followers" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/mayank-goyal09">
+        <img src="https://img.shields.io/github/stars/mayank-goyal09?style=social&label=Stars&color=yellow" alt="GitHub Stars" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://linkedin.com/in/mayank-goyal09">
+        <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn" />
+      </a>
+    </p>
 
+  </div>
 </div>
+<br><br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#-about-me">
+          <img src="https://img.shields.io/badge/WHO_AM_I-000000?style=for-the-badge&logo=About.me&logoColor=white&color=24243e"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-tech-arsenal">
+          <img src="https://img.shields.io/badge/TECH_STACK-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=302b63"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-projects-lab">
+          <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white&color=0f0c29"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-statistics">
+          <img src="https://img.shields.io/badge/STATS-000000?style=for-the-badge&logo=googleanalytics&logoColor=white&color=black"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+<br>
 
+<h2 align="center">⚡ 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗶𝘁𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: <span style="color:#00D9FF">𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</span></h2>
 <div align="center">
-
-## ⚡ 𝗧𝗛𝗘 𝗖𝗢𝗗𝗘 𝗩𝗔𝗨𝗟𝗧 ⚡
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%">
 </div>
+
+<table align="center" width="90%" border="0">
+<tr>
+<td width="30%" align="center" valign="middle">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #302b63;" />
+</td>
+<td width="70%" valign="top">
 
 ```python
-# ╔════════════════════════════════════════════════════════════════╗
-# ║  USER: Mayank Goyal           STATUS: OVERCLOCKED 🚀           ║
-# ╚════════════════════════════════════════════════════════════════╝
+# 📂 /home/mayank/profile.py
 
-class AI_Architect:
+class MayankGoyal(DataScientist):
     def __init__(self):
-        self.username = "mayank-goyal09"
-        self.location = "India_Servers 🇮🇳"
-        self.power_level = "Over 9000 ⚡"
-        
-    def get_capabilities(self):
-        return [
-            "🧠 Designing Advanced Neural Networks",
-            "🔮 Predicting the Future with Time-Series",
-            "👁️ Computer Vision & Image Processing",
-            "🤖 Automating Intelligence"
-        ]
+        self.name = "Mayank Goyal"
+        self.origin = "India 🇮🇳"
+        self.role = "Machine Learning Engineer 🤖"
+        self.code_style = ["Clean", "Efficient", "Scalable"]
+    
+    def get_mission(self):
+        """
+        My goal is to bridge the gap between complex 
+        data patterns and actionable business intelligence.
+        """
+        return "Building AI that Matters."
 
-    def current_mission(self):
-        print("Executing: Career_Growth.exe")
-        print("Loading: Next_Big_Innovation...")
+    def current_status(self):
+        return {
+            "work": "Building Production ML Models",
+            "learning": ["MLOps", "Transformers", "GCP"],
+            "mood": "☕ Caffeinated & Coding"
+        }
 
-player_one = AI_Architect()
-player_one.current_mission()
+me = MayankGoyal()
+print(me.get_mission())
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<div align="center">
-<h2>💼 𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗛𝗜𝗦𝗧𝗢𝗥𝗬</h2>
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="15%" align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
 </td>
-<td width="85%">
-<h3>🚀 Data Analyst Intern | <span style="color: #bc00ff;">SpaceECE</span></h3>
-<p><strong>📅 Jul 2025 - Oct 2025</strong></p>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="90%">
+<tr>
+<td width="100%">
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td width="20%" align="center" valign="middle">
+<img src="https://cdn-icons-png.flaticon.com/512/3090/3090108.png" width="80" />
+</td>
+<td width="80%">
+<h3>🚀 Data Analyst Intern @ SpaceECE</h3>
+<p><i>Jul 2025 - Oct 2025 • Pune, India</i></p>
+<hr color="#302b63" size="1">
 <p>
-<img src="https://img.shields.io/badge/Status-Mission%20Accomplished-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clearance-Top%20Secret-red?style=flat-square"/>
+<b>🔹 Impact:</b> Transformed raw educational data into high-value strategic dashboards.<br><br>
+<b>🔹 Tech:</b> Python, Pandas, PowerBI, Excel, Advanced Visualization.<br><br>
+<b>🔹 Key Achievement:</b> Developed the "Umang & Udaan" analytics suite, directly influencing student retention strategies.
 </p>
-<ul>
-<li>🔥 <strong>Dashboard Architecture:</strong> Built the <em>Umang & Udaan</em> analytics engine.</li>
-<li>⚡ <strong>Optimization:</strong> Reduced data processing latency by 40%.</li>
-<li>🕵️ <strong>Forensics:</strong> Analyzed Intern Exit patterns to boost retention.</li>
-</ul>
+</td>
+</tr>
+</table>
+</div>
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+<br><br>
 
-<div align="center">
-<h2>🛠️ 𝗪𝗘𝗔𝗣𝗢𝗡𝗦 𝗢𝗙 𝗖𝗛𝗢𝗜𝗖𝗘</h2>
+<h2 align="center">🛠️ 𝗧𝗲𝗰𝗵 𝗔𝗿𝘀𝗲𝗻𝗮𝗹</h2>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark&perline=6" />
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,scikitlearn&theme=dark&perline=6" />
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux&theme=dark&perline=6" />
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,powerbi,tableau,streamlit,flask&theme=dark&perline=6" />
-
-</div>
-
-<div align="center">
-<h2>🏆 𝗧𝗢𝗣 𝗦𝗘𝗖𝗥𝗘𝗧 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h2>
-</div>
-
-<table border="0">
+<table align="center" width="90%">
 <tr>
-<td width="50%" align="center">
-<h3>🏦 Bank Management System</h3>
+<td valign="top" width="33%" align="center">
+<h3>💻 Core Languages</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%"/><br>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="100%"/><br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100%"/><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100%"/>
+</td>
+<td valign="top" width="33%" align="center">
+  <h3>🧠 AI & Deep Learning</h3>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="100%"/><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="100%"/><br>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" width="100%"/><br>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" width="100%"/>
+</td>
+
+<td valign="top" width="33%" align="center">
+  <h3>📊 Data & Tools</h3>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="100%"/><br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="100%"/><br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="100%"/><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100%"/>
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<h2 align="center">🚀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗟𝗮𝗯</h2>
+
+<table align="center" width="95%" border="0">
+<tr>
+<td width="50%" align="center" valign="top">
+<h3 align="center">🏦 Bank Management AI</h3>
+<img src="https://media.giphy.com/media/LIdS85w5vY63oA3sQU/giphy.gif" width="100%" style="border-radius:10px"/><br><br>
+<p align="center">
+Full-stack banking system with transaction AI.<br>
+<code>Streamlit</code> <code>Python</code> <code>SQL</code>
+</p>
 <a href="https://github.com/mayank-goyal09/bank-management-system">
-<img src="https://cdn.dribbble.com/users/1615584/screenshots/15710288/media/76508311d9f807df9741df47387340e4.jpg" width="100%" alt="Bank System"/>
+<img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<br>
-<img src="https://img.shields.io/badge/Tech-Python_•_SQL-blue?style=for-the-badge"/>
-<br>
-<p>A secure fortress for financial data handling transactions.</p>
 </td>
-<td width="50%" align="center">
-<h3>✈️ Flight Delay Predictor</h3>
+<td width="50%" align="center" valign="top">
+<h3 align="center">✈️ Flight Delay Predictor</h3>
+<img src="https://media.giphy.com/media/Vdh24T3F3hI9mQ6j8T/giphy.gif" width="100%" style="border-radius:10px"/><br><br>
+<p align="center">
+1,700+ flights analyzed for delay patterns.<br>
+<code>Data Analysis</code> <code>Visualization</code> <code>Excel</code>
+</p>
 <a href="https://github.com/mayank-goyal09/flight-delay-analysis-dashboard">
-<img src="https://cdn.dribbble.com/users/427857/screenshots/16648784/media/6548c5a477383a818c39798547285516.png" width="100%" alt="Flight Dashboard"/>
+<img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<br>
-<img src="https://img.shields.io/badge/Tech-Excel_•_Analytics-orange?style=for-the-badge"/>
-<br>
-<p>Analyzing 1,701 flights to predict delays before they happen.</p>
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center">
-<h3>📊 HR Analytics Core</h3>
+<td width="50%" align="center" valign="top"><br><br>
+<h3 align="center">📊 HR Analytics Suite</h3>
+<img src="https://media.giphy.com/media/d9MdObluOq163StYlC/giphy.gif" width="100%" style="border-radius:10px"/><br><br>
+<p align="center">
+Employee retention & performance AI.<br>
+<code>Business Intelligence</code> <code>Predictive Modeling</code>
+</p>
 <a href="https://github.com/mayank-goyal09/hr-analytics-dashboard">
-<img src="https://cdn.dribbble.com/users/2064121/screenshots/16858607/media/59231872146903e1c070c538a8a47458.png" width="100%" alt="HR Dashboard"/>
+<img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<br>
-<img src="https://img.shields.io/badge/Tech-PowerBI_•_DAX-yellow?style=for-the-badge"/>
-<br>
-<p>Deep dive into 2,400+ employee records to stop attrition.</p>
 </td>
-<td width="50%" align="center">
-<h3>🌍 Eco-Safety Monitor</h3>
-<a href="https://github.com/mayank-goyal09/environmental-safety-dashboard">
-<img src="https://cdn.dribbble.com/users/721278/screenshots/15867909/media/ec66130d2165081f96459032644e5485.png" width="100%" alt="Eco Dashboard"/>
+<td width="50%" align="center" valign="top"><br><br>
+<h3 align="center">🚢 Titanic Survival AI</h3>
+<img src="https://media.giphy.com/media/UuZXq43G75iJ7IIdK1/giphy.gif" width="100%" style="border-radius:10px"/><br><br>
+<p align="center">
+Classic ML classification problem solved.<br>
+<code>Scikit-Learn</code> <code>Random Forest</code>
+</p>
+<a href="https://github.com/mayank-goyal09/titanic-survival-dashboard">
+<img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<br>
-<img src="https://img.shields.io/badge/Tech-IoT_•_RealTime-green?style=for-the-badge"/>
-<br>
-<p>Real-time tracking of environmental hazards.</p>
 </td>
 </tr>
 </table>
 
+<br><br>
+
+<h2 align="center">📊 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
+
 <div align="center">
-<a href="https://github.com/mayank-goyal09?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_VIEW_ALL_40+_PROJECTS-CLICK_HERE-000000?style=for-the-badge&logo=github&logoColor=white&color=ff00ff"/>
+<table>
+<tr>
+<td valign="top" width="60%">
+<img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayank-goyal09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+</td>
+<td valign="top" width="40%">
+<img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayank-goyal09&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mayank-goyal09&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+
+</div>
+
+<br><br>
+
+<h2 align="center">🤝 𝗟𝗲𝘁'𝘀 <span style="color:#00D9FF">𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲</span></h2>
+<p align="center">
+Open to opportunities in Machine Learning, Data Science, and Python Development.
+</p>
+
+<div align="center">
+<a href="mailto:itsmayak09@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mayank-goyal09">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://kaggle.com/mayankgoyal09">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://mayank-goyal-showcase.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/>
 </a>
 </div>
 
-<div align="center">
-<h2>📊 𝗟𝗜𝗩𝗘 𝗗𝗔𝗧𝗔 𝗙𝗘𝗘𝗗</h2>
-</div>
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=150&section=footer&animation=twinkling"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mayank-goyal09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-goyal09&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" width="41%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mayank-goyal09&theme=tokyonight&hide_border=true&background=000000&stroke=bc00ff&ring=bc00ff&fire=bc00ff&currStreakLabel=bc00ff" />
-</div>
-
-<div align="center">
-<img src="https://github.com/mayank-goyal09/mayank-goyal09/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<div align="center">
-<h2>🏆 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧 𝗨𝗡𝗟𝗢𝗖𝗞𝗘𝗗</h2>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=mayank-goyal09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</a>
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff00ff,6600cc,2c003e,000000&height=150&section=footer&animation=twinkling"/>
+<p style="font-size: 10px; color: #555;">
+<i>Designed with <span style="color: #e25555;">&hearts;</span> and Python by Mayank Goyal</i><br>
+<i>© 2025 All Rights Reserved</i>
+</p>
 </div>

@@ -1,76 +1,83 @@
 <div align="center">
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,2c003e,6600cc,ff00ff&height=300&section=header&text=MAYANK%20GOYAL&fontSize=70&fontAlignY=35&desc=AI%20ARCHITECT%20%7C%20DEEP%20LEARNING%20%7C%20INNOVATOR&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=2"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7aa2f7,bb9af7&height=250&section=header&text=Mayank%20Goyal&fontSize=60&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Deep%20Learning%20Specialist&descAlignY=55&descSize=20&animation=twinkling&fontColor=ffffff"/>
+<p>
+<a href="https://linkedin.com/in/mayank-goyal09"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/mayank-goyal09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:itsmayak09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://mayank-goyal-showcase.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=🚀+Architecting+Neural+Networks;🤖+Transforming+Data+into+Intelligence;⚡+40%2B+Projects+Delivered;💡+Innovation+First+Mindset)](https://git.io/typing-svg)
-
-<br>
-
-<a href="https://linkedin.com/in/mayank-goyal09">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:itsmayak09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://mayank-goyal-showcase.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-View_Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=SYSTEM+ONLINE...;INITIALIZING+NEURAL+NETWORKS...;LOADING+40%2B+ML+PROJECTS...;MAYANK+GOYAL+IS+READY+TO+CODE." alt="Typing SVG" />
 </a>
 
 </div>
-
-<br>
-<br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 👨‍💻 `main.py` | About Me
+<div align="center">
+
+## ⚡ 𝗧𝗛𝗘 𝗖𝗢𝗗𝗘 𝗩𝗔𝗨𝗟𝗧 ⚡
+
+</div>
 
 ```python
-# 🖥️ SYSTEM: MAC-OS / ENV: PYTHON 3.10
-class MayankGoyal:
-    def __init__(self):
-        self.role = "Machine Learning Engineer 🤖"
-        self.location = "India 🇮🇳"
-        self.stack = {
-            "core": ["Python", "SQL", "TensorFlow"],
-            "deploy": ["Docker", "Streamlit", "AWS"]
-        }
-        
-    def current_status(self):
-        return {
-            "work": "Data Analyst Intern @ SpaceECE 💼",
-            "focus": "Building Production-Ready ML Pipelines 🚀",
-            "fun": "Debugging faster than I fall asleep ☕"
-        }
+# ╔════════════════════════════════════════════════════════════════╗
+# ║  USER: Mayank Goyal           STATUS: OVERCLOCKED 🚀           ║
+# ╚════════════════════════════════════════════════════════════════╝
 
-me = MayankGoyal()
-print(me.current_status())
+class AI_Architect:
+    def __init__(self):
+        self.username = "mayank-goyal09"
+        self.location = "India_Servers 🇮🇳"
+        self.power_level = "Over 9000 ⚡"
+        
+    def get_capabilities(self):
+        return [
+            "🧠 Designing Advanced Neural Networks",
+            "🔮 Predicting the Future with Time-Series",
+            "👁️ Computer Vision & Image Processing",
+            "🤖 Automating Intelligence"
+        ]
+
+    def current_mission(self):
+        print("Executing: Career_Growth.exe")
+        print("Loading: Next_Big_Innovation...")
+
+player_one = AI_Architect()
+player_one.current_mission()
 ```
 
-<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 💼 Professional Experience
+<div align="center">
+<h2>💼 𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗛𝗜𝗦𝗧𝗢𝗥𝗬</h2>
+</div>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="100%">
-<div align="center">
-<h3>🌟 Data Analyst Intern @ SpaceECE</h3>
-<p><strong>Jul 2025 - Oct 2025 • Pune, India</strong></p>
-</div>
-
-**"Successfully transformed raw operational data into strategic business intelligence."**
-
-**🔥 Key Impacts:**
-- **Umang & Udaan Dashboard:** Engineered comprehensive tracking for program analytics.
-- **Retention Analysis:** Identified key exit patterns, helping strategy teams improve retention.
-- **Optimization:** Streamlined reporting workflows, reducing manual data entry time.
-
-<div align="center">
-<img src="https://img.shields.io/badge/Tools-PowerBI_%7C_Python_%7C_SQL-blue?style=flat-square" />
-</div>
+<td width="15%" align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
+</td>
+<td width="85%">
+<h3>🚀 Data Analyst Intern | <span style="color: #bc00ff;">SpaceECE</span></h3>
+<p><strong>📅 Jul 2025 - Oct 2025</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Status-Mission%20Accomplished-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clearance-Top%20Secret-red?style=flat-square"/>
+</p>
+<ul>
+<li>🔥 <strong>Dashboard Architecture:</strong> Built the <em>Umang & Udaan</em> analytics engine.</li>
+<li>⚡ <strong>Optimization:</strong> Reduced data processing latency by 40%.</li>
+<li>🕵️ <strong>Forensics:</strong> Analyzed Intern Exit patterns to boost retention.</li>
+</ul>
 </td>
 </tr>
 </table>
@@ -79,134 +86,106 @@ print(me.current_status())
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 🛠️ The Arsenal | Tech Stack
+<div align="center">
+<h2>🛠️ 𝗪𝗘𝗔𝗣𝗢𝗡𝗦 𝗢𝗙 𝗖𝗛𝗢𝗜𝗖𝗘</h2>
 
-<table align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,scikitlearn&theme=dark&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux&theme=dark&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,powerbi,tableau,streamlit,flask&theme=dark&perline=6" />
+
+</div>
+
+<div align="center">
+<h2>🏆 𝗧𝗢𝗣 𝗦𝗘𝗖𝗥𝗘𝗧 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h2>
+</div>
+
+<table border="0">
 <tr>
-<td align="center" width="25%">
-<b>🧠 Deep Learning</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<td width="50%" align="center">
+<h3>🏦 Bank Management System</h3>
+<a href="https://github.com/mayank-goyal09/bank-management-system">
+<img src="https://cdn.dribbble.com/users/1615584/screenshots/15710288/media/76508311d9f807df9741df47387340e4.jpg" width="100%" alt="Bank System"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/Tech-Python_•_SQL-blue?style=for-the-badge"/>
+<br>
+<p>A secure fortress for financial data handling transactions.</p>
 </td>
-<td align="center" width="25%">
-<b>📊 Data Science</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn&theme=dark" />
+<td width="50%" align="center">
+<h3>✈️ Flight Delay Predictor</h3>
+<a href="https://github.com/mayank-goyal09/flight-delay-analysis-dashboard">
+<img src="https://cdn.dribbble.com/users/427857/screenshots/16648784/media/6548c5a477383a818c39798547285516.png" width="100%" alt="Flight Dashboard"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/Tech-Excel_•_Analytics-orange?style=for-the-badge"/>
+<br>
+<p>Analyzing 1,701 flights to predict delays before they happen.</p>
 </td>
-<td align="center" width="25%">
-<b>🚀 Deployment</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git&theme=dark" />
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>📊 HR Analytics Core</h3>
+<a href="https://github.com/mayank-goyal09/hr-analytics-dashboard">
+<img src="https://cdn.dribbble.com/users/2064121/screenshots/16858607/media/59231872146903e1c070c538a8a47458.png" width="100%" alt="HR Dashboard"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/Tech-PowerBI_•_DAX-yellow?style=for-the-badge"/>
+<br>
+<p>Deep dive into 2,400+ employee records to stop attrition.</p>
 </td>
-<td align="center" width="25%">
-<b>🌐 Web & Viz</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=selenium,react,html,css&theme=dark" />
+<td width="50%" align="center">
+<h3>🌍 Eco-Safety Monitor</h3>
+<a href="https://github.com/mayank-goyal09/environmental-safety-dashboard">
+<img src="https://cdn.dribbble.com/users/721278/screenshots/15867909/media/ec66130d2165081f96459032644e5485.png" width="100%" alt="Eco Dashboard"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/Tech-IoT_•_RealTime-green?style=for-the-badge"/>
+<br>
+<p>Real-time tracking of environmental hazards.</p>
 </td>
 </tr>
 </table>
+
+<div align="center">
+<a href="https://github.com/mayank-goyal09?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_VIEW_ALL_40+_PROJECTS-CLICK_HERE-000000?style=for-the-badge&logo=github&logoColor=white&color=ff00ff"/>
+</a>
+</div>
+
+<div align="center">
+<h2>📊 𝗟𝗜𝗩𝗘 𝗗𝗔𝗧𝗔 𝗙𝗘𝗘𝗗</h2>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mayank-goyal09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-goyal09&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" width="41%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mayank-goyal09&theme=tokyonight&hide_border=true&background=000000&stroke=bc00ff&ring=bc00ff&fire=bc00ff&currStreakLabel=bc00ff" />
+</div>
+
+<div align="center">
+<img src="https://github.com/mayank-goyal09/mayank-goyal09/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 🏆 Featured Projects Gallery
+<div align="center">
+<h2>🏆 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧 𝗨𝗡𝗟𝗢𝗖𝗞𝗘𝗗</h2>
 
-<table align="center">
-<tr>
-<td width="50%">
-<h3 align="center">🏦 Bank Management System</h3>
-<div align="center">
-<img src="https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" style="border-radius:10px;" />
-</div>
-<br>
-<p align="center">
-Full-featured banking simulation handling accounts, transactions, and history tracking.
-</p>
-<div align="center">
-<img src="https://img.shields.io/badge/Stack-Python_%7C_SQL-blue?style=flat-square" />
-<a href="https://github.com/mayank-goyal09/bank-management-system"><img src="https://img.shields.io/badge/View-Code-green?style=flat-square&logo=github" /></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">✈️ Flight Delay Analysis</h3>
-<div align="center">
-<img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" style="border-radius:10px;" />
-</div>
-<br>
-<p align="center">
-Interactive Dashboard analyzing 1,701 flights to predict and visualize delay patterns.
-</p>
-<div align="center">
-<img src="https://img.shields.io/badge/Stack-Excel_%7C_Data_Viz-orange?style=flat-square" />
-<a href="https://github.com/mayank-goyal09/flight-delay-analysis-dashboard"><img src="https://img.shields.io/badge/View-Code-green?style=flat-square&logo=github" /></a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">📊 HR Analytics Dashboard</h3>
-<div align="center">
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" style="border-radius:10px;" />
-</div>
-<br>
-<p align="center">
-Performance tracking for 2,400+ employees, identifying attrition risks.
-</p>
-<div align="center">
-<img src="https://img.shields.io/badge/Stack-PowerBI_%7C_DAX-yellow?style=flat-square" />
-<a href="https://github.com/mayank-goyal09/hr-analytics-dashboard"><img src="https://img.shields.io/badge/View-Code-green?style=flat-square&logo=github" /></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🌍 Environmental Safety</h3>
-<div align="center">
-<img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" style="border-radius:10px;" />
-</div>
-<br>
-<p align="center">
-Real-time risk assessment for air quality, heat stress, and rainfall safety.
-</p>
-<div align="center">
-<img src="https://img.shields.io/badge/Stack-Python_%7C_IoT-red?style=flat-square" />
-<a href="https://github.com/mayank-goyal09/environmental-safety-dashboard"><img src="https://img.shields.io/badge/View-Code-green?style=flat-square&logo=github" /></a>
-</div>
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayank-goyal09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7"/>
-</td>
-<td width="50%">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayank-goyal09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mayank-goyal09&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=mayank-goyal09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</a>
 
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7aa2f7,bb9af7&height=100&section=footer&animation=twinkling"/>
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mayank-goyal09&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/mayank-goyal09?style=for-the-badge&color=blue)](https://github.com/mayank-goyal09)
-[![GitHub Stars](https://img.shields.io/github/stars/mayank-goyal09?style=for-the-badge&color=yellow)](https://github.com/mayank-goyal09)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff00ff,6600cc,2c003e,000000&height=150&section=footer&animation=twinkling"/>
 </div>

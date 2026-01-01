@@ -585,4 +585,5 @@ Quick to adapt to new technologies and frameworks
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/><img width="925" height="14763" alt="image" src="https://github.com/user-attachments/assets/edb1c284-0f52-4d42-abce-69a505ea02ad" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+

@@ -15,3 +15,39 @@
 <br>
 
 <div align="center">
+
+> *"Most people stare at data. I make it talk."*
+
+</div>
+
+---
+
+## ⚡ tl;dr — who is this guy?
+
+**ML Engineer** who turns messy data into things that actually work. I've shipped **40+ projects** — from training neural nets on medical voice data to building real-time dashboards that people actually use. I don't just learn algorithms, I deploy them.
+ 
+Currently obsessed with: **Deep Learning at scale** · **MLOps pipelines** · **Building AI tools no one asked for but everyone needs**
+
+<br>
+
+---
+
+## 🗺️ How My Brain Works — The Skill Map
+
+<div align="center">
+
+<img src="assets/mindmap.png" width="700"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,docker,git,github,vscode,linux&theme=dark" />
+
+</div>
+
+<br>
+
+---

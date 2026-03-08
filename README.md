@@ -51,3 +51,55 @@ Currently obsessed with: **Deep Learning at scale** · **MLOps pipelines** · **
 <br>
 
 ---
+
+## 🔥 The Highlight Reel
+
+> *These aren't course projects. These are things I actually built, broke, rebuilt, and shipped.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 TimeSeries-Au — Gold Price Oracle
+LSTM-powered gold price prediction system that **auto-retrains daily** via GitHub Actions. Live market data from YFinance → deep learning → forecasts that actually mean something. While you sleep, this thing is learning.
+
+**`TensorFlow` `LSTM` `Streamlit` `GitHub Actions`**
+
+[![](https://img.shields.io/badge/→_See_the_Code-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/mayank-goyal09/TimeSeries-Au)
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 News Curator — AI-Powered News Engine
+Smart news curation app that filters the noise and surfaces what matters. Custom algorithms + clean UI = finally, a news feed that doesn't make you dumber.
+
+**`Python` `NLP` `Streamlit`**
+
+[![](https://img.shields.io/badge/→_See_the_Code-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/mayank-goyal09/news-curator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 RedGlyph — AI Code Reviewer
+Your virtual **senior engineer** that never sleeps. Paste code → get roasted with bug reports, security flags, anti-patterns & a quality score. Powered by **Gemini 2.5 + LangGraph** with 60fps GPU-composed UI animations. Code review, but make it ruthless.
+
+**`FastAPI` `Gemini 2.5` `LangGraph` `Docker`**
+
+[![](https://img.shields.io/badge/→_See_the_Code-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/mayank-goyal09/RedGlyph)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤟 ASL Digit Recognition (Real-Time)
+CNN + OpenCV = real-time American Sign Language digit recognition from your webcam. Computer vision that actually does something cool.
+
+**`TensorFlow` `OpenCV` `CNN`**
+
+[![](https://img.shields.io/badge/→_See_the_Code-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/mayank-goyal09/asl-digit-recognition-cnn-opencv)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">

@@ -103,3 +103,34 @@ CNN + OpenCV = real-time American Sign Language digit recognition from your webc
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+### 👁️ Brand-Spotter — AI Logo Recognition
+CNN that identifies company logos from images with scary accuracy. Upload a photo → instantly know the brand. Computer vision that's actually useful for real-world brand detection.
+
+**`TensorFlow` `CNN` `Streamlit` `OpenCV`**
+
+[![](https://img.shields.io/badge/→_See_the_Code-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/mayank-goyal09/Brand-Spotter)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Discord Assistant
+Built a Discord bot powered by **Ollama + FastAPI**. It chats, it helps, it lives in the server 24/7. Basically made my own little Jarvis for Discord.
+
+**`Python` `FastAPI` `Ollama`**
+
+[![](https://img.shields.io/badge/→_See_the_Code-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/mayank-goyal09/ai-discord-assistant)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![See All 66 Repos →](https://img.shields.io/badge/See_all_66_repos_→-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-goyal09?tab=repositories)
+
+</div>
+
+<br>
+
+---

@@ -134,3 +134,121 @@ Built a Discord bot powered by **Ollama + FastAPI**. It chats, it helps, it live
 <br>
 
 ---
+
+## ⚙️ How I Build — The Pipeline
+
+<div align="center">
+
+<img src="assets/workflow.png" width="750"/>
+
+</div>
+
+<br>
+
+```
+   📦 DATA          🔍 EXPLORE         🧠 MODEL          ⚙️ TRAIN          🚀 DEPLOY
+   ─────────────────────────────────────────────────────────────────────────────────
+   Scrape it.       EDA the hell       Pick the right     Tune until        Streamlit,
+   Clean it.        out of it.         architecture.      it bleeds         API, or
+   Wrangle it.      Visualize.         CNN? LSTM?         accuracy.         prod-ready.
+                    Find stories.      XGBoost?                             Ship it.
+```
+
+<br>
+
+---
+
+## 💼 Battle Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 Content & Market Intelligence Lead
+**Kwerky Media** &nbsp;|&nbsp; `Aug 2025 – Feb 2026`
+
+🔹 Spearheaded **multi-channel research** initiatives — syncing content with high-velocity digital trends & audience psychology
+
+🔹 Orchestrated **cross-functional media coordination**, delivering strategic assets under strict deadlines. No excuses, just results.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Analyst Intern
+**SpaceECE, Pune** &nbsp;|&nbsp; `Jul 2025 – Oct 2025`
+
+🔹 Built **4 production dashboards** — Umang & Udaan analytics, Intern Exit Analysis, Education metrics, Process Optimization
+
+🔹 Transformed raw chaos into **actionable business intelligence**. Recognized by leadership for being "annoyingly good at asking the right questions." 😤
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 📊 The Numbers Don't Lie
+
+<div align="center">
+
+<a href="https://github.com/mayank-goyal09">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayank-goyal09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d9ff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayank-goyal09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/mayank-goyal09">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayank-goyal09&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayank-goyal09&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/mayank-goyal09)
+
+</div>
+
+<br>
+
+---
+
+## 📡 Find Me. Or Don't. I'll Still Be Shipping.
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b6b)](mailto:itsmayak09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/mayank-goyal09)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00d9ff)](https://mayank-goyal-showcase.netlify.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/mayankgoyal09)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-goyal09)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+```
+ ⚡ Built different. Ships daily. Breaks things on purpose. ⚡
+```
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Move%20fast%20and%20break%20things.%20Unless%20it's%20production.%20Then%20move%20fast%20and%20pray.&author=Every%20ML%20Engineer%20Ever" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+

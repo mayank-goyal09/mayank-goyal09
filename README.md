@@ -24,7 +24,7 @@
 
 ## ⚡ tl;dr — who is this guy?
 
-**ML Engineer** who turns messy data into things that actually work. I've shipped **40+ projects** — from training neural nets on medical voice data to building real-time dashboards that people actually use. I don't just learn algorithms, I deploy them.
+**ML Engineer** who turns messy data into things that actually work. I've shipped **70+ projects** — from training neural nets on medical voice data to building real-time dashboards that people actually use. I don't just learn algorithms, I deploy them.
  
 Currently obsessed with: **Deep Learning at scale** · **MLOps pipelines** · **Building AI tools no one asked for but everyone needs**
 

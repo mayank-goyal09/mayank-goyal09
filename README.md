@@ -228,7 +228,7 @@ Built a Discord bot powered by **Ollama + FastAPI**. It chats, it helps, it live
 
 [![Gmail](https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b6b)](mailto:itsmayak09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/mayank-goyal09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00d9ff)](https://mayank-goyal-showcase.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00d9ff)](https://mayank-goyal09.github.io/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/mayankgoyal09)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayank-goyal09)
 

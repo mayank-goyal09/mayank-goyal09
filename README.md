@@ -194,27 +194,21 @@ Built a Discord bot powered by **Ollama + FastAPI**. It chats, it helps, it live
 <div align="center">
 
 <a href="https://github.com/mayank-goyal09">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayank-goyal09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d9ff"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayank-goyal09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mayank-goyal09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d9ff"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mayank-goyal09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/mayank-goyal09">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayank-goyal09&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mayank-goyal09&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
----
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayank-goyal09&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/mayank-goyal09)
+<a href="https://github.com/mayank-goyal09">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayank-goyal09&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=7c3aed&point=00d9ff&area=true&hide_border=true" alt="Activity Graph"/>
+</a>
 
 </div>
 
